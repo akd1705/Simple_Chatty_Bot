@@ -22,6 +22,8 @@
       <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
       <module name="Problems-We_need_to_learn_Java_main" target="11" />
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
+      <module name="Problems__10_-Decrement_all_main" target="11" />
+      <module name="Problems__10_-Decrement_all_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
