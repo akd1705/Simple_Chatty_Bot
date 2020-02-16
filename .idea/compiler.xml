@@ -24,6 +24,8 @@
       <module name="Problems-We_need_to_learn_Java_test" target="11" />
       <module name="Problems__10_-Decrement_all_main" target="11" />
       <module name="Problems__10_-Decrement_all_test" target="11" />
+      <module name="Problems__11_-Replacing_'a'_with_'b'_main" target="11" />
+      <module name="Problems__11_-Replacing_'a'_with_'b'_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
