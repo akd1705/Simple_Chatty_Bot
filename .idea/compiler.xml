@@ -30,6 +30,10 @@
       <module name="Problems__12_-Check_prefix_ignoring_the_case_test" target="11" />
       <module name="Problems__13_-Comparing_strings_ignoring_whitespaces_main" target="11" />
       <module name="Problems__13_-Comparing_strings_ignoring_whitespaces_test" target="11" />
+      <module name="Problems__14_-Check_the_value_main" target="11" />
+      <module name="Problems__14_-Check_the_value_test" target="11" />
+      <module name="Problems__15_-Check_the_given_numbers_are_different_main" target="11" />
+      <module name="Problems__15_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
