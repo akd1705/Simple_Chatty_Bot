@@ -34,6 +34,8 @@
       <module name="Problems__14_-Check_the_value_test" target="11" />
       <module name="Problems__15_-Check_the_given_numbers_are_different_main" target="11" />
       <module name="Problems__15_-Check_the_given_numbers_are_different_test" target="11" />
+      <module name="Problems__16_-Exactly_one_parameter_is_positive_main" target="11" />
+      <module name="Problems__16_-Exactly_one_parameter_is_positive_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
