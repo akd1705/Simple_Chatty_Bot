@@ -40,6 +40,8 @@
       <module name="Problems__17_-Healthy_sleep_test" target="11" />
       <module name="Problems__18_-Healthy_sleep_main" target="11" />
       <module name="Problems__18_-Healthy_sleep_test" target="11" />
+      <module name="Problems__19_-Triangle_main" target="11" />
+      <module name="Problems__19_-Triangle_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
