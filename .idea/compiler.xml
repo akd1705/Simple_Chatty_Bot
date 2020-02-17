@@ -44,6 +44,8 @@
       <module name="Problems__19_-Triangle_test" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_main" target="11" />
       <module name="Problems__1_-Hello,_Java_platform_test" target="11" />
+      <module name="Problems__20_-Chocolate_main" target="11" />
+      <module name="Problems__20_-Chocolate_test" target="11" />
       <module name="Problems__2_-Javadoc_comment_main" target="11" />
       <module name="Problems__2_-Javadoc_comment_test" target="11" />
       <module name="Problems__3_-The_forgotten_comments_main" target="11" />
